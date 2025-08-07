@@ -1,2 +1,2 @@
 // this is a comment
-export const data = "[{name: 'foobar'}]
+export const users = "[{name: 'foobar'}]
